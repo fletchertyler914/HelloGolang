@@ -1,3 +1,3 @@
 # HelloGolang
 
-Hello World Golang Project
+Hello World Golang Project!
